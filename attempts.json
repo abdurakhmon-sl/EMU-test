@@ -1,0 +1,3536 @@
+[
+    {
+        "date": "2026-01-25 10:56",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Философия",
+        "score": 5,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-25 11:06",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 17,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-25 14:48",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 20,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-25 14:59",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 18,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-25 15:09",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 19,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-25 16:35",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 18,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-25 19:03",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 19,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-25 19:28",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Философия",
+        "score": 7,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-25 19:36",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 17,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-26 04:13",
+        "user_id": 276574581,
+        "username": "Студент",
+        "subject": "Философия",
+        "score": 18,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-26 05:00",
+        "user_id": 276574581,
+        "username": "Студент",
+        "subject": "Философия",
+        "score": 18,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-26 05:51",
+        "user_id": 276574581,
+        "username": "Студент",
+        "subject": "Философия",
+        "score": 19,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-26 06:00",
+        "user_id": 276574581,
+        "username": "Студент",
+        "subject": "Философия",
+        "score": 18,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-26 06:15",
+        "user_id": 276574581,
+        "username": "Студент",
+        "subject": "Философия",
+        "score": 22,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-26 08:14",
+        "user_id": 276574581,
+        "username": "Студент",
+        "subject": "Философия",
+        "score": 19,
+        "total": 25,
+        "mode": "practice"
+    },
+    {
+        "date": "2026-01-26 08:20",
+        "user_id": 276574581,
+        "username": "Студент",
+        "subject": "Философия",
+        "score": 16,
+        "total": 25,
+        "mode": "exam"
+    },
+    {
+        "date": "26.01 08:34",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Философия",
+        "score": 7,
+        "total": 25,
+        "mode_key": "exam",
+        "mode_name": "ЭКЗАМЕН"
+    },
+    {
+        "date": "26.01 08:39",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Философия",
+        "score": 7,
+        "total": 25,
+        "mode_key": "exam",
+        "mode_display": "ЭКЗАМЕН"
+    },
+    {
+        "date": "26.01 08:47",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 20,
+        "total": 25,
+        "mode_key": "exam",
+        "mode_display": "ЭКЗАМЕН"
+    },
+    {
+        "date": "26.01 11:18",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 19,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "26.01 13:12",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 20,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "26.01 15:04",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 20,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "26.01 16:28",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 19,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "26.01 17:11",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 18,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "26.01 17:17",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 21,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "26.01 17:44",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Пересдача (латин)",
+        "score": 2,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "26.01 18:03",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 17,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "26.01 18:13",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 21,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 03:10",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Тест 2",
+        "score": 5,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 04:10",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Тест 2",
+        "score": 30,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 04:56",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 05:14",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 05:27",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 05:36",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 06:37",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 3",
+        "score": 60,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 06:47",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 3",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 06:55",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 3",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 07:02",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 3",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 07:10",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 2",
+        "score": 60,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 07:19",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 2",
+        "score": 55,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 07:25",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 2",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 07:34",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 07:40",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 3",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 07:47",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 3",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 08:48",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 08:51",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 3",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 09:58",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 10:07",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 10:46",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 60,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 11:04",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 11:12",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Тест 6",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 15:18",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 72,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 15:33",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 72,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 16:29",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 16:37",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 88,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 16:43",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 17:35",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Философия",
+        "score": 36,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 17:52",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 18:02",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 92,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 18:05",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 76,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 18:10",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 18:16",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 92,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 18:36",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 18:59",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 20:00",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 48,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "27.01 20:35",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Латинский язык",
+        "score": 40,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 03:44",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 60,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 03:54",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 04:09",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 76,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 04:18",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 12:28",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 13:24",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 15:56",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 72,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 16:34",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 18:37",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 72,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 18:50",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 76,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 20:22",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика (тест 4)",
+        "score": 44,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "28.01 20:31",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 52,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 04:25",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 76,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 04:32",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 64,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 04:39",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 92,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 04:46",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 76,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 05:47",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 05:52",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 60,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 06:01",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 06:06",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 64,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 14:44",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 20:05",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 20:12",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 20:22",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 20:29",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 100,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 21:03",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 21:52",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 22:14",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "29.01 22:38",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 11:57",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 14:41",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 16:44",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 16:50",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 16:53",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 17:13",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 19:29",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 20:10",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 20:15",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 68,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 20:19",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 72,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 20:26",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 72,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 20:35",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 72,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 20:39",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 68,
+        "total": 25,
+        "mode_key": "exam",
+        "mode_display": "ЭКЗАМЕН"
+    },
+    {
+        "date": "30.01 20:42",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 76,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 20:46",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 68,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 20:49",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 64,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 20:52",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 68,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 20:58",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 21:02",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 21:06",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 72,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 21:15",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 21:22",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 76,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 21:25",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 68,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "30.01 22:00",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "31.01 00:16",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 52,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "31.01 00:25",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "31.01 09:02",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "31.01 13:34",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Философия",
+        "score": 88,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 01:26",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 03:19",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 03:29",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 12:01",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 76,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 12:16",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 72,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 12:22",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 88,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 12:27",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 95,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 12:42",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 13:57",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 14:04",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 17:19",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 17:22",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 17:26",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 88,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 17:33",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 92,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 19:33",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.02 22:18",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "02.02 09:47",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "02.02 10:20",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика (тест 4)",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "02.02 10:29",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 88,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "02.02 21:26",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 00:55",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 88,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 01:01",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 09:57",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 92,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 10:07",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Философия",
+        "score": 76,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 19:50",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 68,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 20:09",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 68,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 20:22",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 68,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 21:59",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 22:08",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 22:16",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.02 22:24",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 100,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 00:37",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 08:49",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 10:16",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 10:21",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 11:03",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 11:08",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 11:13",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 11:27",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 11:32",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 11:43",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 12:41",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 12:48",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 12:53",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 12:56",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 13:07",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 13:16",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 17:37",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 18:08",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 19:41",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "04.02 19:47",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 00:06",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 00:11",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 50,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 00:15",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 55,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 00:20",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 00:34",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 00:40",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 00:44",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 00:49",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 60,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 00:52",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 00:59",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 01:02",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 55,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 01:11",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 50,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 01:14",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 01:18",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 60,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 01:43",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 60,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 09:11",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 09:17",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 09:22",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 09:40",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 09:48",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 09:52",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 10:32",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "05.02 10:41",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "06.02 13:42",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Информатика",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "06.02 19:31",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Информатика",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "06.02 20:34",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Информатика",
+        "score": 60,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "06.02 21:07",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Информатика",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "06.02 22:01",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Информатика",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "06.02 22:05",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Информатика",
+        "score": 50,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "06.02 22:15",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Информатика",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "06.02 22:54",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Информатика",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "07.02 09:34",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Информатика",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 03:25",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 68,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 03:40",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 84,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 04:17",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 76,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 10:00",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 25,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 10:36",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 10:44",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 10:52",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 11:24",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 12:34",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 13:35",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 13:46",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 15:12",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 15:26",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 100,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 15:56",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 16:25",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 16:50",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 17:22",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 17:27",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 17:38",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 18:34",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 18:41",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 55,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 18:44",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 18:48",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 18:54",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 19:23",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 20:18",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 60,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 20:21",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 20:24",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 20:27",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 20:30",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 20:33",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 20:36",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 95,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 20:39",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 55,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 20:44",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 21:02",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 21:16",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 21:18",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 21:22",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 22:08",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 22:21",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 23:00",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "09.02 23:12",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "10.02 00:17",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "10.02 09:11",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "10.02 09:41",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Преклиническая",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 11:15",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 13:50",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 13:57",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Биофизика",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 23:27",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 23:30",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 23:34",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 23:44",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 60,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 23:47",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 23:52",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 23:55",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "11.02 23:58",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "12.02 10:03",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "12.02 10:06",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "12.02 10:10",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 95,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "18.02 13:30",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Анатомия 2",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "19.02 13:27",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Анатомия 1",
+        "score": 80,
+        "total": 20,
+        "mode_key": "exam",
+        "mode_display": "ЭКЗАМЕН"
+    },
+    {
+        "date": "19.02 14:04",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Анатомия 1",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "19.02 14:30",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Анатомия 3",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "19.02 15:16",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Анатомия 1",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "19.02 15:33",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Анатомия 1",
+        "score": 10,
+        "total": 2,
+        "mode_key": "mistakes",
+        "mode_display": "MISTAKES"
+    },
+    {
+        "date": "19.02 15:40",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Анатомия 1",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "19.02 15:52",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Анатомия 3",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "19.02 16:08",
+        "user_id": 1825865550,
+        "username": "abdurakhmon_kholikjonov",
+        "subject": "Анатомия 2",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "21.02 20:35",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "21.02 20:37",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 15,
+        "total": 5,
+        "mode_key": "mistakes",
+        "mode_display": "MISTAKES"
+    },
+    {
+        "date": "21.02 20:38",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 25,
+        "total": 5,
+        "mode_key": "mistakes",
+        "mode_display": "MISTAKES"
+    },
+    {
+        "date": "21.02 21:40",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "21.02 21:42",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 50,
+        "total": 10,
+        "mode_key": "mistakes",
+        "mode_display": "MISTAKES"
+    },
+    {
+        "date": "21.02 21:43",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 45,
+        "total": 10,
+        "mode_key": "mistakes",
+        "mode_display": "MISTAKES"
+    },
+    {
+        "date": "21.02 21:48",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "21.02 21:51",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 15,
+        "mode_key": "mistakes",
+        "mode_display": "MISTAKES"
+    },
+    {
+        "date": "22.02 19:23",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "22.02 20:15",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "22.02 21:01",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 195,
+        "total": 46,
+        "mode_key": "mistakes",
+        "mode_display": "MISTAKES"
+    },
+    {
+        "date": "23.02 12:49",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 13:44",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 195,
+        "total": 55,
+        "mode_key": "mistakes",
+        "mode_display": "MISTAKES"
+    },
+    {
+        "date": "23.02 14:09",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 15:58",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 16:03",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 16:52",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 20:25",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 20:52",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 21:06",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 21:36",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 22:40",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 22:53",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "23.02 22:57",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:04",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:10",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:13",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:18",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:21",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:25",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:28",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:32",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:35",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:37",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:41",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:45",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:48",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:51",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 06:54",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 08:29",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 08:32",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 08:36",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 10:09",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 10:13",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 10:17",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 10:39",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Латинский язык",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 10:42",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Латинский язык",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 18:10",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 18:47",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "24.02 19:01",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "26.02 16:03",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Преклиническая",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "26.02 16:07",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "26.02 16:11",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "26.02 17:15",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 55,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "26.02 17:18",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "26.02 17:21",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "26.02 19:16",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "26.02 19:20",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "PRACTICE"
+    },
+    {
+        "date": "01.03 13:08",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.03 13:15",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.03 13:22",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.03 14:19",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.03 19:10",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "01.03 21:31",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 85,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "02.03 19:00",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Стом ведение",
+        "score": 65,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.03 10:17",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.03 10:34",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "03.03 10:42",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Стом ведение",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "07.03 17:29",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 70,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "07.03 17:33",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "07.03 17:36",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "07.03 20:47",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "07.03 22:15",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 95,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "07.03 22:20",
+        "user_id": 7570379559,
+        "username": "•sh•🦷",
+        "subject": "Биофизика",
+        "score": 95,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "12.03 21:24",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "12.03 21:32",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 75,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "12.03 21:38",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 90,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "12.03 21:49",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "13.03 05:45",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "13.03 05:50",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    },
+    {
+        "date": "13.03 06:37",
+        "user_id": 276574581,
+        "username": "𝑴𝒂𝒅𝒊𝒏𝒂 𝑻𝒖𝒓𝒈'𝒖𝒏𝒃𝒂𝒚𝒆𝒗𝒂",
+        "subject": "Стом ведение",
+        "score": 80,
+        "total": 20,
+        "mode_key": "practice",
+        "mode_display": "ТРЕНИРОВКА"
+    }
+]
