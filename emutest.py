@@ -1,13 +1,10 @@
 import telebot
-from telebot import types, apihelper
+from telebot import types
 import pandas as pd
 import random
 import json
 import os
 from datetime import datetime, timedelta
-
-# --- ПРОКСИ (обязательно для PythonAnywhere) ---
-apihelper.proxy = {'https': 'http://proxy.server:3128'}
 
 # --- КОНФИГУРАЦИЯ ---
 BOT_TOKEN = '8564473279:AAGg6OGNITMQ059IO7Ar83JgCNI3BWo0CW4'
